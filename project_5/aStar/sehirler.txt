@@ -1,0 +1,9 @@
+Istanbul 50 75
+Ankara 120 300
+Eskisehir 90 45
+Izmir 30 80
+Agri 200 100
+Samsun 180 250
+Kahramanmaras 150 60
+Sivas 250 180
+Tokat 200 120

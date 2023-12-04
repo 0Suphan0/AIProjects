@@ -1,0 +1,12 @@
+Istanbul Ankara 200
+Istanbul Izmir 135
+Izmir Eskisehir 88
+Izmir Kahramanmaras 300
+Eskisehir Ankara 180
+Tokat Ankara 165
+Tokat Samsun 120
+Sivas Tokat 95
+Kahramanmaras Sivas 210
+Agri Kahramanmaras  155
+Agri Sivas 275
+Samsun Ankara 110
